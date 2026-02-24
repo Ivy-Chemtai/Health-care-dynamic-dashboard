@@ -43,3 +43,10 @@ The project combines **data modeling, DAX calculations, and visual storytelling*
 - **DAX (Data Analysis Expressions)**
 - **PowerPoint** (dashboard background & layout design)
 - Data modeling & visualization best practices
+
+- 
+- ##  Use Cases
+This dashboard is suitable for:
+- Hospital management & operations teams
+- Healthcare data analytics projects
+- Capacity planning and performance monitoring
